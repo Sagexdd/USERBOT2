@@ -1,9 +1,9 @@
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">⚡️𝗭𝗘𝗨𝗦-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
+<p align="center">⚡️𝗨ɴᴋɴᴏᴡɴ-𝗨sᴇʀʙᴏᴛ⚡️</p>
 
-<img src="https://telegra.ph/file/6e8bb5bb7cd3a4a534683.jpg">
+<img src="https://telegra.ph/file/ae3fcd1ec046c4ea0ad14.jpg">
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
@@ -68,7 +68,7 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- [|| 𝗦ʏɴαxx](https://t.me/ig_synax)
+- [|| 𝗨𝗡𝗞𝗡𝗢𝗪𝗡𝟳 ](https://t.me/UNKNOWN07_000)
 - [|| ˹𖤍𝐒ʏɴαxx x 𝐒ᴜᴘᴘᴏʀᴛ𖤍˼ ||](https://t.me/sagebotxsupports) 
 
 ## Support / Channel
