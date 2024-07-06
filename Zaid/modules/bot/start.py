@@ -16,13 +16,13 @@ PHONE_NUMBER_TEXT = (
 async def hello(client: app, message):
     buttons = [
            [
-                InlineKeyboardButton("⚡𝗗𝗘𝗣𝗟𝗢𝗣𝗘𝗥⚡", url="t.me/ig_synax"),
+                InlineKeyboardButton("⚡𝗗𝗘𝗣𝗟𝗢𝗣𝗘𝗥⚡", url="t.me/UNKNOWN07_000"),
             ],
             [
-                InlineKeyboardButton("⚡𝗨𝗣𝗗𝗔𝗧𝗘𝗦⚡", url="t.me/sagebotxsupports"),
+                InlineKeyboardButton("⚡𝗨𝗣𝗗𝗔𝗧𝗘𝗦⚡", url="t.me/+R2Ec5wk0E3RhN2Zl"),
             ],
             [
-                InlineKeyboardButton("⚡𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡", url="t.me/sagebotxsupports"),
+                InlineKeyboardButton("⚡𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡", url="t.me/+EBf3Wo1lt7hhY2E1"),
             ],
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -41,6 +41,6 @@ async def clone(bot: app, msg: Message):
         client = Client(name="Melody", api_id=API_ID, api_hash=API_HASH, session_string=phone, plugins=dict(root="Zaid/modules"))
         await client.start()
         user = await client.get_me()
-        await msg.reply(f" 💘𝗔𝗕 𝗧𝗨𝗠 𝗣𝗔𝗞𝗞𝗔 𝗪𝗔𝗟𝗘 𝗦𝗡𝗔𝗫𝗫 𝗕𝗘𝗧𝗘 𝗔𝗦 ❥ {user.first_name} 💨.")
+        await msg.reply(f" 💘𝗔𝗕 𝗧𝗨𝗠 𝗣𝗔𝗞𝗞𝗔 𝗪𝗔𝗟𝗘 𝗨𝗡𝗞𝗡𝗢𝗪𝗡𝟳 𝗕𝗘𝗧𝗘 𝗔𝗦 ❥ {user.first_name} 💨.")
     except Exception as e:
         await msg.reply(f"**ERROR:** `{str(e)}`\nPress /start to Start again.")
