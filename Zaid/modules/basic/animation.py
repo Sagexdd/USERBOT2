@@ -342,9 +342,10 @@ async def gkahgagw(client: Client, message: Message):
         "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
         "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
         "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
-        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [sʏɴᴀx ᴏᴘ](https://t.me/ig_synax) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
+        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [ᴜɴᴋɴᴏᴡɴ𝟽](https://t.me/@UNKNOWN07_000) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
     ]
-    if message.forward_fro      return
+    if message.forward_from:
+        return
     await message.edit("ding..dong..ding..dong ...")
     await asyncio.sleep(4)
     for i in animation_ttl:
@@ -381,23 +382,23 @@ async def okihakga(client: Client, message: Message):
         await message.edit(animation_chars[i % 15])
 
 
-@Client.on_message(filters.command(["gangsta", "gang", "gangstar"], ".") & filters.me)
+@Client.on_message(filters.command(["unknown", "unknown7", "Teamunknown7"], ".") & filters.me)
 async def gajjajay(client: Client, message: Message):
     await message.edit("EVERyBOdy")
     await asyncio.sleep(0.3)
     await message.edit("iZ")
     await asyncio.sleep(0.2)
-    await message.edit("GangSTur")
+    await message.edit("UnkNow7")
     await asyncio.sleep(0.5)
     await message.edit("UNtIL ")
     await asyncio.sleep(0.2)
-    await message.edit("#_sᴛʀᴀɴɢᴇʀ")
+    await message.edit("#_ᴜɴᴋɴᴏᴡɴ𝟽ᴋɪʜᴀᴡᴇʟɪ")
     await asyncio.sleep(0.3)
     await message.edit("ArRivE")
     await asyncio.sleep(0.3)
     await message.edit("🔥🔥🔥")
     await asyncio.sleep(0.3)
-    await message.edit("EVERyBOdy iZ GangSTur UNtIL #_sʏɴᴀxx ArRivE 🔥🔥🔥")
+    await message.edit("EVERyBOdy iZ UnkNow7 UNtIL #_ᴜɴᴋɴᴏᴡɴ𝟽 ArRivE 🔥🔥🔥")
 
 
 @Client.on_message(filters.command("charging", ".") & filters.me)
@@ -538,7 +539,7 @@ async def hak(client: Client, message: Message):
     await message.edit_text("Hacking complete!\nUploading file...")
     await asyncio.sleep(2)
     await message.edit_text(
-        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑](https://t.me/ig_synax)"
+        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑](https://t.me/UNKNOWN07_000)"
     )
 
 
@@ -855,7 +856,7 @@ async def helikopter(client: Client, message: Message):
         "▬▬▬.◙.▬▬▬ \n"
         "═▂▄▄▓▄▄▂ \n"
         "◢◤ █▀▀████▄▄▄▄◢◤ \n"
-        "█▄ █ █▄ ███ɪɢ-sʏɴᴀxx▀▀▀▀╬ \n"
+        "█▄ █ █▄ ███ᴜɴᴋɴᴏᴡɴ𝟽▀▀▀▀╬ \n"
         "◥█████◤ \n"
         "══╩══╩══ \n"
         "╬═╬ \n"
@@ -864,9 +865,8 @@ async def helikopter(client: Client, message: Message):
         "╬═╬ \n"
         "╬═╬ \n"
         "╬═╬ \n"
-        "╬═╬ ʜᴇʟʟᴏ ʙᴀʙʏ ɪ ᴀᴍ sʏɴᴀxx:) \n"
-        "╬═╬☻/ \n"
-        "╬═╬/▌ \n"
+        "╬═╬ ʜᴇʟʟᴏ ʙᴀʙʏ ɪ ᴀᴍ ᴜɴᴋɴᴏᴡɴ𝟽:) \n"
+        "╬═╬☻/ ███ᴜɴᴋɴᴏᴡɴ𝟽"╬═╬/▌ \n"
         "╬═╬/ \\ \n",
     )
 
@@ -908,7 +908,7 @@ async def awikwok(client: Client, message: Message):
         "──▄▀█▄▄▄─────▄▀█▄▄▄\n"
         "▄▀──█▄▄──────█─█▄▄\n"
         "─▄▄▄▀──▀▄───▄▄▄▀──▀▄\n"
-        "─▀───────▀▀─▀───────▀▀\n`ɴɪᴋᴀʟ ᴍᴄ😥😥.. ɢᴀᴀʟɪ ɴᴀ ᴅᴇ ᴠᴀʀɴᴀ sʏɴᴀxx ᴛᴇʀɪ ɢ**ᴅ ᴍᴀᴀʀ ʟᴇɢᴀ.👻`",
+        "─▀───────▀▀─▀───────▀▀\n`ɴɪᴋᴀʟ ᴍᴄ😥😥.. ɢᴀᴀʟɪ ɴᴀ ᴅᴇ ᴠᴀʀɴᴀ ᴜɴᴋɴᴏᴡɴ𝟽 ᴛᴇʀɪ ɢ**ᴅ ᴍᴀᴀʀ ʟᴇɢᴀ.👻`",
     )
 
 
@@ -923,8 +923,8 @@ async def ysaja(client: Client, message: Message):
         "‡‡‡‡‡‡‡‡‡█‡‡‡‡‡‡█\n"
         "██████▄▄█‡‡‡‡‡‡████████▄\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
-        "▓▓▓▓▓▓█‡‡‡💘#_sʏɴᴀxx-ᴏᴘ👻‡‡‡‡‡‡‡‡█\n"
-        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡💗ʙʏ 𝗭𝗘𝗨𝗦🌺‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡💘#_ᴜɴᴋɴᴏᴡɴ𝟽-ᴏᴘ👻‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡💗ʙʏ ᴜɴᴋɴᴏᴡɴ𝟽 ᴜsᴇʀʙᴏᴛ🌺‡‡‡‡█\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
         "▓▓▓▓▓▓█████‡‡‡‡‡‡‡‡‡‡‡‡██\n"
@@ -938,7 +938,7 @@ async def tank(client: Client, message: Message):
         message,
         "█۞███████]▄▄▄▄▄▄▄▄▄▄▃ \n"
         "▂▄▅█████████▅▄▃▂…\n"
-        "[████ sʏɴᴀxx🔥████████]\n"
+        "[████ ᴜɴᴋɴᴏᴡɴ𝟽🔥████████]\n"
         "◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤\n",
     )
 
@@ -948,7 +948,7 @@ async def babi(client: Client, message: Message):
     await edit_or_reply(
         message,
         "┈┈┏━╮╭━┓┈╭━━━━╮\n"
-        "┈┈┃┏┗┛┓┃╭┫@ig_synax ┃\n"
+        "┈┈┃┏┗┛┓┃╭┫@UNKNOWN07_000 ┃\n"
         "┈┈╰┓▋▋┏╯╯╰━━━━╯\n"
         "┈╭━┻╮╲┗━━━━╮╭╮┈\n"
         "┈┃▎▎┃╲╲╲╲╲╲┣━╯┈\n"
@@ -1339,9 +1339,8 @@ add_command_help(
             "Get Dong",
         ],
         [
-            "ganstar",
-            "Animation Gangster",
-        ],
+            "unknown7",
+            "Animation unknown7      ],
         [
             "charge",
             " Tesla animation charging",
