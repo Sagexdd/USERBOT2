@@ -1340,7 +1340,8 @@ add_command_help(
         ],
         [
             "unknown7",
-            "Animation unknown7      ],
+            "Animation unknown7",
+        ],
         [
             "charge",
             " Tesla animation charging",
